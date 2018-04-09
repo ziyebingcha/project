@@ -1,0 +1,31 @@
+.zhuti{
+    width: 100%;
+    height:736px;
+}
+#title{
+    width: 100%; height: 60px;
+}
+.top{
+    height: 60px;
+    line-height:60px;
+    background: linear-gradient(to bottom,#fff ,#ccc);
+    border: 1px solid #ccc;
+}
+.top>h1{margin-left: 10px;}
+.left{ float: left;width: 600px;}
+.right{ float: right;width: 320px;}
+#manhu>.gao{height: 550px;border: 1px solid #ccc;margin-top: 20px;}
+#manhu>.left>img{width:590px;height: 500px;margin-left: 5px;}
+#manhu>.right img{width: 260px;height:200px;border: 1px dashed #ccc;margin: 30px 30px;}
+#manhu>.right .gushi{margin: 20px;}
+#manhu>.right .gushi p{font-size: 17px;margin-bottom: 10px;}
+.fenye{
+    float: right;
+    margin-top:30px;
+    margin-right:360px;}
+.fenye>a{display: inline-block;width: 30px;line-height: 30px;text-align: center;
+    height: 30px;background: linear-gradient(to bottom,#fff,#ccc);
+    border: 1px solid #ccc;border-radius: 5px;margin: 5px;font-size: 15px;
+}
+.fenye>.ch{width: 50px;}
+.act{background:linear-gradient(to bottom,#aaa,#fff)!important;}

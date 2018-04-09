@@ -1,0 +1,940 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/jignling.html" line="26" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a885cba1-0c88-431a-b88b-1565aa98580c" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.gitattributes" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/deployment.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/project.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vagrant.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/webServers.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/1.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/admin.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/callus.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/css/admin.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/css/base.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/css/callus.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/css/footer.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/css/index.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/css/product_manhua.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/css/produt.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/henan.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/init.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/product_manhau.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/xianhu.sql" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/footer.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gongsi.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/header.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/banner/1gif.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/banner/banner.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/banner/figbtn.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/banner/figbtnhs.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/banner/right.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/banner/right2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/banner/xia.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/banner/xia2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/case1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/case2.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/case3.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/case4.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/gongsi/dingwei.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/gongsi/dingweilogo.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/gongsi/ditu.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/gongsi/gaoshan.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/gongsi/gongsi.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/gongsi/us_bg.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/gongsi/us_bg2.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/gongsi/xainhudengni.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/gongsi/xian.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/logo/logo.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/logo/logo.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/logo/logo1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/logo/logo2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/logo/logopng.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/product/p1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/product/p2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/product/p3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/product/p4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/product/product-hua/2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/product/product-hua/3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/product/product-hua/4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/product/product-hua/5.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/product/product-hua/6.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/product/product-hua/7.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/ren.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/timg.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jignling.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/admin.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/echarts.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/header.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/jquery-3.2.1.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/map.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/move.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/product_manhua.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/layui/css/layui.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/layui/css/layui.mobile.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/layui/css/modules/code.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/layui/css/modules/laydate/default/laydate.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/layui/css/modules/layer/default/icon-ext.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/layui/css/modules/layer/default/icon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/layui/css/modules/layer/default/layer.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/layui/css/modules/layer/default/loading-0.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/layui/css/modules/layer/default/loading-1.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/layui/css/modules/layer/default/loading-2.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/layui/font/iconfont.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/layui/font/iconfont.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/layui/font/iconfont.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/layui/font/iconfont.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/0.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/1.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/10.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/11.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/12.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/13.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/14.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/15.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/16.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/17.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/18.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/19.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/2.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/20.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/21.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/22.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/23.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/24.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/25.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/26.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/27.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/28.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/29.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/3.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/30.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/31.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/32.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/33.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/34.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/35.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/36.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/37.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/38.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/39.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/4.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/40.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/41.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/42.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/43.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/44.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/45.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/46.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/47.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/48.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/49.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/5.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/50.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/51.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/52.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/53.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/54.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/55.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/56.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/57.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/58.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/59.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/6.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/60.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/61.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/62.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/63.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/64.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/65.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/66.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/67.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/68.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/69.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/7.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/70.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/71.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/8.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/9.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/layui/lay/modules/carousel.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/layui/lay/modules/code.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/layui/lay/modules/element.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/layui/lay/modules/flow.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/layui/lay/modules/form.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/layui/lay/modules/jquery.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/layui/lay/modules/laydate.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/layui/lay/modules/layedit.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/layui/lay/modules/layer.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/layui/lay/modules/laypage.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/layui/lay/modules/laytpl.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/layui/lay/modules/mobile.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/layui/lay/modules/table.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/layui/lay/modules/tree.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/layui/lay/modules/upload.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/layui/lay/modules/util.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/layui/layui.all.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/layui/layui.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/map.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/product.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/product_hua.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/product_manhua.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project.zip" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/window监听加载.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xianhu/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xianhu/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xianhu/.idea/xianhu.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/横向轮播.html" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="product.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/product.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="507">
+              <caret line="13" column="5" lean-forward="false" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+              <folding>
+                <element signature="n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#span#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#3;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#4;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="move.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/move.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="507">
+              <caret line="13" column="21" lean-forward="false" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gongsi.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gongsi.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1638">
+              <caret line="131" column="0" lean-forward="false" selection-start-line="131" selection-start-column="0" selection-end-line="131" selection-end-column="0" />
+              <folding>
+                <element signature="n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#0;n#div#0;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#3;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#4;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="product_hua.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/product_hua.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1560">
+              <caret line="40" column="47" lean-forward="false" selection-start-line="40" selection-start-column="47" selection-end-line="40" selection-end-column="47" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jignling.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/jignling.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="349">
+              <caret line="18" column="7" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="product_manhua.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/product_manhua.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1599">
+              <caret line="57" column="34" lean-forward="false" selection-start-line="57" selection-start-column="34" selection-end-line="57" selection-end-column="34" />
+              <folding>
+                <element signature="n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#span#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#0;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#0;n#div#0;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#1;n#div#0;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="product_manhua.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/product_manhua.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1989">
+              <caret line="51" column="2" lean-forward="false" selection-start-line="51" selection-start-column="2" selection-end-line="51" selection-end-column="2" />
+              <folding>
+                <marker date="1522398404791" expanded="true" signature="364:445" ph="..." />
+                <marker date="1522398404791" expanded="true" signature="493:975" ph="..." />
+                <marker date="1522398404791" expanded="true" signature="527:614" ph="..." />
+                <marker date="1522398404791" expanded="true" signature="662:944" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="product_manhau.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/product_manhau.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="975">
+              <caret line="25" column="40" lean-forward="false" selection-start-line="25" selection-start-column="40" selection-end-line="25" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="product_manhua.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/product_manhua.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1170">
+              <caret line="30" column="64" lean-forward="false" selection-start-line="30" selection-start-column="64" selection-end-line="30" selection-end-column="64" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="base.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/base.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3003">
+              <caret line="77" column="1" lean-forward="false" selection-start-line="77" selection-start-column="1" selection-end-line="77" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>layui-nav-child</find>
+      <find>tab1</find>
+      <find>309</find>
+      <find>setInterval</find>
+      <find>000</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/js/header.js" />
+        <option value="$PROJECT_DIR$/css/index.css" />
+        <option value="$PROJECT_DIR$/js/index.js" />
+        <option value="$PROJECT_DIR$/lunbo.html" />
+        <option value="$PROJECT_DIR$/css/admin.css" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/footer.html" />
+        <option value="E:/yuqingfei/模板/lanseranqigongsi/蓝色燃气公司官网HTML模板/contact.html" />
+        <option value="$PROJECT_DIR$/window监听加载.html" />
+        <option value="$PROJECT_DIR$/js/map.js" />
+        <option value="$PROJECT_DIR$/layui/css/layui.css" />
+        <option value="$PROJECT_DIR$/css/callus.css" />
+        <option value="$PROJECT_DIR$/css/footer.css" />
+        <option value="$PROJECT_DIR$/css/produt.css" />
+        <option value="$PROJECT_DIR$/callus.html" />
+        <option value="$PROJECT_DIR$/1.html" />
+        <option value="$PROJECT_DIR$/admin.html" />
+        <option value="$PROJECT_DIR$/js/admin.js" />
+        <option value="$USER_HOME$/Documents/WeChat Files/ziyebingcha/Files/map.html" />
+        <option value="$PROJECT_DIR$/map.html" />
+        <option value="$PROJECT_DIR$/product.html" />
+        <option value="$PROJECT_DIR$/product_hua.html" />
+        <option value="$PROJECT_DIR$/data/product_manhau.php" />
+        <option value="$PROJECT_DIR$/data/init.php" />
+        <option value="$PROJECT_DIR$/header.html" />
+        <option value="$PROJECT_DIR$/js/product_manhua.js" />
+        <option value="$PROJECT_DIR$/css/product_manhua.css" />
+        <option value="$PROJECT_DIR$/js/jinglingmove.js" />
+        <option value="$PROJECT_DIR$/css/base.css" />
+        <option value="$PROJECT_DIR$/product_manhua.html" />
+        <option value="$PROJECT_DIR$/gongsi.html" />
+        <option value="$PROJECT_DIR$/js/move.js" />
+        <option value="$PROJECT_DIR$/jignling.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="300" />
+    <option name="y" value="58" />
+    <option name="width" value="1378" />
+    <option name="height" value="980" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="layui" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="layui" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\project\img\product\product-hua" />
+      <recent name="C:\xampp\htdocs\project\data" />
+      <recent name="C:\xampp\htdocs\project\js" />
+      <recent name="C:\xampp\htdocs\project" />
+      <recent name="C:\xampp\htdocs\project\img" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\project\js" />
+      <recent name="C:\xampp\htdocs\project" />
+      <recent name="C:\xampp\htdocs\project\css" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a885cba1-0c88-431a-b88b-1565aa98580c" name="Default" comment="" />
+      <created>1521517495335</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1521517495335</updated>
+      <workItem from="1521517496460" duration="17313000" />
+      <workItem from="1521594353931" duration="25108000" />
+      <workItem from="1521680617451" duration="23531000" />
+      <workItem from="1521766962815" duration="11694000" />
+      <workItem from="1521856993734" duration="15039000" />
+      <workItem from="1521938766951" duration="14354000" />
+      <workItem from="1522026554990" duration="23041000" />
+      <workItem from="1522113969255" duration="22509000" />
+      <workItem from="1522202747213" duration="20086000" />
+      <workItem from="1522285514348" duration="15303000" />
+      <workItem from="1522371763812" duration="13914000" />
+      <workItem from="1522396665010" duration="2930000" />
+      <workItem from="1523156603152" duration="17502000" />
+      <workItem from="1523235866067" duration="1465000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="223789000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="300" y="58" width="1378" height="980" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18731344" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24973656" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3097998" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24973656" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand>
+      <path>
+        <item name="project" type="b2602c69:ProjectViewProjectNode" />
+        <item name="project" type="462c0819:PsiDirectoryNode" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/css/header.css" />
+    <entry file="file://$PROJECT_DIR$/footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/yuqingfei/UI库/SUI-Mobile-dev/docs/demos/btns.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-704">
+          <caret line="18" column="49" lean-forward="true" selection-start-line="18" selection-start-column="49" selection-end-line="18" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/logo/微信图片_20180320150954.jpg" />
+    <entry file="file://E:/yuqingfei/笔记、/game/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="35" column="6" lean-forward="true" selection-start-line="35" selection-start-column="6" selection-end-line="35" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/横向轮播.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/yuqingfei/模板/lanseranqigongsi/蓝色燃气公司官网HTML模板/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="15" column="17" lean-forward="true" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/html5-schema/html5/common.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="124" column="18" lean-forward="false" selection-start-line="124" selection-start-column="18" selection-end-line="124" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/yuqingfei/模板/lanseranqigongsi/蓝色燃气公司官网HTML模板/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1848">
+          <caret line="56" column="31" lean-forward="true" selection-start-line="56" selection-start-column="31" selection-end-line="56" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/window监听加载.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="18" column="66" lean-forward="true" selection-start-line="18" selection-start-column="66" selection-end-line="18" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/callus.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="5" column="125" lean-forward="false" selection-start-line="5" selection-start-column="125" selection-end-line="5" selection-end-column="125" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/footer.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="6" column="16" lean-forward="true" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/map.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="78" column="13" lean-forward="true" selection-start-line="78" selection-start-column="13" selection-end-line="78" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/case2.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/gongsi/us_bg2.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/gongsi/us_bg.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/gongsi/gaoshan.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/gongsi/ditu.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/gongsi/dingweilogo.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://E:/vue/项目day03/day03/mfresh_frontend_v2/src/components/News.vue" />
+    <entry file="file://E:/vue/tpls/src/components/index/index1.vue" />
+    <entry file="file://$PROJECT_DIR$/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="32" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/yuqingfei/笔记、/jianbo1230/css/product.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="61" column="0" lean-forward="false" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/produt.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="564">
+          <caret line="51" column="0" lean-forward="true" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/callus.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="696">
+          <caret line="247" column="6" lean-forward="false" selection-start-line="234" selection-start-column="4" selection-end-line="247" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/gongsi/xian.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/gongsi/xainhudengni.gif">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/gongsi/gongsi.gif">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1794">
+          <caret line="46" column="19" lean-forward="false" selection-start-line="46" selection-start-column="19" selection-end-line="46" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/admin.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7176">
+          <caret line="184" column="0" lean-forward="false" selection-start-line="184" selection-start-column="0" selection-end-line="184" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/henan.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="18" column="41" lean-forward="false" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/map.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2288">
+          <caret line="18" column="33" lean-forward="false" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/case1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/product/p2.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/product/p1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="73" column="18" lean-forward="true" selection-start-line="73" selection-start-column="18" selection-end-line="73" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/admin.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="76" column="6" lean-forward="true" selection-start-line="76" selection-start-column="6" selection-end-line="76" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layui/css/layui.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="1" column="20034" lean-forward="true" selection-start-line="1" selection-start-column="20024" selection-end-line="1" selection-end-column="20034" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="466">
+          <caret line="20" column="47" lean-forward="true" selection-start-line="20" selection-start-column="47" selection-end-line="20" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/init.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="3" column="37" lean-forward="true" selection-start-line="3" selection-start-column="37" selection-end-line="3" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/jinglingmove.js" />
+    <entry file="file://$PROJECT_DIR$/css/product_manhua.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1170">
+          <caret line="30" column="64" lean-forward="false" selection-start-line="30" selection-start-column="64" selection-end-line="30" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/product.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="507">
+          <caret line="13" column="5" lean-forward="false" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+          <folding>
+            <element signature="n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#span#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#4;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/product_manhau.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="975">
+          <caret line="25" column="40" lean-forward="false" selection-start-line="25" selection-start-column="40" selection-end-line="25" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/base.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3003">
+          <caret line="77" column="1" lean-forward="false" selection-start-line="77" selection-start-column="1" selection-end-line="77" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/product_manhua.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1989">
+          <caret line="51" column="2" lean-forward="false" selection-start-line="51" selection-start-column="2" selection-end-line="51" selection-end-column="2" />
+          <folding>
+            <marker date="1522398404791" expanded="true" signature="364:445" ph="..." />
+            <marker date="1522398404791" expanded="true" signature="493:975" ph="..." />
+            <marker date="1522398404791" expanded="true" signature="527:614" ph="..." />
+            <marker date="1522398404791" expanded="true" signature="662:944" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/product_manhua.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1599">
+          <caret line="57" column="34" lean-forward="false" selection-start-line="57" selection-start-column="34" selection-end-line="57" selection-end-column="34" />
+          <folding>
+            <element signature="n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#span#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gongsi.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1638">
+          <caret line="131" column="0" lean-forward="false" selection-start-line="131" selection-start-column="0" selection-end-line="131" selection-end-column="0" />
+          <folding>
+            <element signature="n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#4;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/product_hua.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1560">
+          <caret line="40" column="47" lean-forward="false" selection-start-line="40" selection-start-column="47" selection-end-line="40" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/move.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="507">
+          <caret line="13" column="21" lean-forward="false" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jignling.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="18" column="7" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

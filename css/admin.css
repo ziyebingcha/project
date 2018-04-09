@@ -1,0 +1,194 @@
+#session{
+    position: relative;
+    transition: all 2s linear;
+    height: 900px;
+}
+.neirong{
+    /*width: 300px;*/
+    height: 600px;
+    float: left;
+}
+.fooler{width: 100%;}
+#middle,#last{
+    height: 300px;
+}
+#middle{
+    background: #3ffdff;
+    position: absolute;
+    top:300px;
+    z-index: 100;
+    transition: all 2s linear;
+    overflow: hidden;
+}
+#last{
+    background: #2f5af7;
+    position: absolute;
+    top:600px;
+    z-index: 10;
+}
+#continer1{
+    width: 80%;
+    background: red;
+    z-index: 1000;
+    position: absolute;
+}
+#continer2{
+    width: 20%;
+    z-index: 500;
+    position: absolute;
+    background: #00F7DE;
+    top:0;
+    left:60%;
+    transition: all 2s linear;
+    clear: both;
+}
+#continer2-1  {
+     position: absolute;
+     width:100%;
+     height:600px;
+     z-index: 1000;
+     position: absolute;
+     background: #f4eef7;
+     top:0;
+     right:0;
+     clear: both;
+ }
+#continer2-2  {
+    position: absolute;
+    width:100%;
+    height:600px;
+    z-index: 800;
+    position: absolute;
+    background: #f4eef7;
+    top:0;
+    right:0;
+    clear: both;
+}
+#continer2-1 img{
+    position: absolute;
+    width: 100%;
+    height: 600px;
+    clear: both;
+
+}
+#continer3{
+    width: 20%;
+    background: #1E9FFF;
+    z-index: 150;
+    position:absolute ;
+    top:0px;
+    left: 80%;
+}
+.cebian{
+    height: 600px;
+    width: 50px;
+    position: absolute;
+    top:0;
+    right:0;
+    z-index: 2000;
+}
+.jiantou{
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    top:50%;
+    right: 7px;
+}
+.cebian:hover{
+    z-index: 2000;
+    background: rgba(0,0,0,0.3);
+}
+/*888888888888*/
+.squer{
+    width:100%;
+    height: 600px;
+    position: absolute;
+    transition: all 1s linear;
+    border: 5px solid #ababab;
+    border-radius: 15px;
+    z-index: 800;
+}
+.title {
+    height: 62px;
+    overflow: hidden;  /* 内容超出的部分要隐藏，免得撑高头部 */
+    font-size: 26px;
+    line-height: 62px;
+    padding-left: 30px;
+    background-image: -moz-linear-gradient(top, #F0F0F0, #ABABAB); /* Firefox */
+    background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #F0F0F0), color-stop(1, #ABABAB)); /* Saf4+, Chrome */
+   /*filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#8fa1ff', endColorstr='#f05e6f', GradientType='0'); !* IE*!*/
+    border: 1px solid #aaa;
+    -moz-border-radius: 8px 8px 0 0;      /* Gecko browsers */
+    -webkit-border-radius: 8px 8px 0 0;   /* Webkit browsers */
+    border-radius: 8px 8px 0 0;
+    color: #000;
+    position: relative;
+}
+.title a {
+    position: absolute;
+    right: 10px;
+    bottom: 10px;
+    display: inline;
+    color: #fff;
+    font-size: 12px;
+    line-height: 24px;
+}
+#box {
+    height: 450px;
+    /*width: 300px;*/
+    margin-left: 10px;
+    margin-top: 30px;
+    overflow: hidden;   /* 超出的内容部分要隐藏，免得撑高中间部分 */
+}
+#box ul li {
+    height: 24px;
+    }
+#box ul li a {
+    float: left; width: 90%;
+    font-size: 14px;
+    overflow: hidden;
+    white-space:nowrap;
+    text-overflow:ellipsis;
+}
+#xiabian{
+     height: 50px;
+     width: 100%;
+     position: absolute;
+     top:550px;
+     z-index: 1000;
+ }
+#img-xiajiantou{
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    left:50%;
+    top: 16px;
+    z-index: 3000;
+}
+#xiabian:hover{
+    background:rgba(0,0,0,0.3);
+}
+#middle2-1,#middle2-1 img{
+    width: 100%;
+    height:300px ;
+}
+#middle> .box{
+    margin:0 auto;
+    position:relative;
+}
+#lunbo{
+    width:972px;
+    height:300px;
+    margin:0 auto;
+    overflow: hidden;
+    white-space:nowrap;
+
+    }
+#lunbo ul{ float:left;}
+#lunbo ul li{
+    float:left;
+    width:243px;
+    height:300px;
+    list-style: none;
+}
+.gif{opacity:1;}

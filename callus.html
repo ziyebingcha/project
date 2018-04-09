@@ -1,0 +1,251 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>联系闲乎</title>
+    <link rel="stylesheet" href="layui/css/layui.css">
+    <link rel="stylesheet" href="css/base.css">
+    <link rel="stylesheet" href="css/callus.css">
+    <link rel="stylesheet" href="css/footer.css">
+
+    <script type="text/javascript" src="http://api.map.baidu.com/api?key=&v=1.1&services=true"></script>
+    <style>
+  </style>
+</head>
+<body>
+    <div>
+        <div id="header"></div>
+        <div class="container">
+            <!--面包屑导航-->
+            <div class="cabred" >
+                <span class="layui-breadcrumb">
+                    <a href="admin.html">首页</a>
+                    <a href="gongsi.html">关于闲乎</a>
+                    <a><cite>联系我们</cite></a>
+                </span>
+            </div>
+            <div  class="zhutu">
+                <img class="tu1"  src="img/logo/logo1.jpg" alt="">
+                <p >闲 之 有 道 · 知 者 乐 乎 </p>
+                <img class="tu2" src="img/gongsi/gaoshan.png">
+            </div>
+            <div class="main1">
+                <div class="main1_">
+                    <div class="main1_l">
+                        <h1>
+                            <p>CONTACT&nbsp;US</p>
+                            <span>联系我们</span>
+                        </h1>
+                        <ul>
+                            <li class="iteam1"><a href="jvascript:"><span>联系我们</span></a></li>
+                            <li class="iteam2"><a href="jvascript:"><span>投稿要求</span></a></li>
+                            <li class="iteam3"><a href="jvascript:"><span>招贤纳士</span></a></li>
+                        </ul>
+                    </div>
+                    <div class="main1_r">
+                        <div class="us_top">
+                            <h2>欢迎加入我们</h2>
+                        </div>
+                        <div class="contact_bottom">
+                            <div class="squer1">
+                                <!--百度地图容器-->
+                                <div  id="dituContent"></div>
+
+                            </div>
+                            <div class="squer2" >
+                                <div class="layui-tab layui-tab-card">
+                                    <ul class="layui-tab-title" >
+                                        <li class="layui-this">原则底线</li>
+                                        <li>收稿类型</li>
+                                        <li>字数要求</li>
+                                        <li>投递要求</li>
+                                        <li>关于支付</li>
+                                        <li>相关权益</li>
+                                    </ul>
+                                    <div class="layui-tab-content" style="height: 400px;">
+                                        <div class="layui-tab-item layui-show">
+                                            <h2>1 原创独发</h2>
+                                            <p>即要求文章没有在其他平台上发布过（含个人平台在内的一切平台和媒体端）
+                                            且选择闲乎娱乐作为文章在全部媒介范围内的独家发布者。</p>
+                                            <h2>2 必须原创</h2>
+                                            <p>即要求文章必须为原创，绝对没有抄袭、照搬、洗文等任何违背原创精神的行为。</p>
+                                            <h2>3 不能一稿多投</h2>
+                                            <p>即不能将同一篇稿件同时投给我方和其他收稿方。</p>
+                                            <h2>4 不能一稿多卖</h2>
+                                            <p>即投稿方在确认将稿件投至我方或接受支付后，不能将该篇文章再投至其他平台或任意第三方
+                                            （含个人平台在内的一切平台和媒体端）。</p>
+                                        </div>
+                                        <div class="layui-tab-item">
+                                            <h2>1 评论分析类</h2>
+                                            <p>角度新颖、论点独特</p>
+                                            <h2>2 情感类</h2>
+                                            <p>关于亲情、友情、乡情、爱情等</p>
+                                            <h2>3 故事小说类</h2>
+                                            <p>发人深省、回味无穷</p>
+                                            <h2>4 轻松搞笑类</h2>
+                                            <p>笑果拔群</p>
+                                            <p><b>秘诀</b>：<br/>
+                                            1 评论分析类过稿率相对偏高；<br/>
+                                            2 情感类中纯爱情的主题过稿率相对偏低；<br/>
+                                            3 不收录任何连载题材及诗词歌赋题材；<br/>
+                                            4 不收录任何剧评、影评、书评、歌曲评论、人物专题的文章。</p>
+                                        </div>
+                                        <div class="layui-tab-item"><h2>所有稿件需达1200字以上。</h2></div>
+                                        <div class="layui-tab-item">
+                                            <h2>投稿邮箱</h2>
+                                            <p>bjxhyl@126.com；</p>
+                                            <h2> 邮件主题为</h2>
+                                            <p>姓名/笔名+稿件类别+手机号码+微信号（是用来转账的哟~）；
+                                            投稿前请尽可能确保文章中无或少错别字、病句等问题；请用Word形式投稿，Word文件请用文章标题命名。</p>
+                                          </div>
+                                        <div class="layui-tab-item"><h2>每篇一结，支付从速。100元/篇</h2></div>
+                                        <div class="layui-tab-item">
+                                           <p>一旦发现有违上述原则底线或其他恶意行为，我们一定追究到底。 <br/>
+                                            文章中如有任何非投稿者自己创作的成果内容，请自行提供投稿者拥有此创作成果的权益证明。 <br/>
+                                            因为涉及到创作成果和知识产权的权益之严肃和合法性问题，所以如不能提供该证明的投稿，
+                                               我们一概不予录用。 <br/>
+                                            保护知识产权、尊重创作者劳动成果，严谨看待每一个原创者的创作成果是我们公司的一贯原则，
+                                               请大家理解和支持！敬谢！ <br/></p>
+                                            <p><b>（注：有关知识产权和创作成果权益的具体标准请自行查阅相关法律法规和标准政策。）</b> <br/></p>
+                                            <p>两日内我方会回复是否收录您的来稿，期间如遇节假日，回复时间将延后，请理解，敬谢！ <br/>自您确认将稿件投至我方或接受支付时起，视为双方达成约定。 <br/>
+                                            此时则与该文章所有相关之权利均转入我方名下。  <br/><b>(注：自权利转入我方名下后，该篇文章的所有相关权益都属我方所有。 <br/>
+                                            除我方之外，包括原作者在内的任何个体，都不能再使用该篇文章从事谋利或任何我方没有同意的活动及行为。)</b> <br/></p>
+                                            <p>朋友们，闲乎感谢大家的关注，期待您的参与，期待您的来稿~~</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="squer3" >
+                                <table >
+                                    <thead >
+                                        <tr >
+                                            <th>职位</th>
+                                            <th>要求</th>
+                                            <th>人数</th>
+                                            <th>薪资</th>
+                                            <th>工作经验</th>
+                                            <th>学历</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td>客服</td>
+                                            <td>办公自动化</td>
+                                            <td>2人</td>
+                                            <td>面议</td>
+                                            <td>3年以上</td>
+                                            <td>本科</td>
+                                        </tr>
+                                        <tr>
+                                            <td>客服</td>
+                                            <td>办公自动化</td>
+                                            <td>2人</td>
+                                            <td>面议</td>
+                                            <td>3年以上</td>
+                                            <td>本科</td>
+                                        </tr>
+                                        <tr>
+                                            <td>客服</td>
+                                            <td>办公自动化</td>
+                                            <td>2人</td>
+                                            <td>面议</td>
+                                            <td>3年以上</td>
+                                            <td>本科</td>
+                                        </tr>
+                                        <tr>
+                                            <td>客服</td>
+                                            <td>办公自动化</td>
+                                            <td>2人</td>
+                                            <td>面议</td>
+                                            <td>3年以上</td>
+                                            <td>本科</td>
+                                        </tr>
+                                        <tr>
+                                            <td>客服</td>
+                                            <td>办公自动化</td>
+                                            <td>2人</td>
+                                            <td>面议</td>
+                                            <td>3年以上</td>
+                                            <td>本科</td>
+                                        </tr>
+                                        <tr>
+                                            <td>客服</td>
+                                            <td>办公自动化</td>
+                                            <td>2人</td>
+                                            <td>面议</td>
+                                            <td>3年以上</td>
+                                            <td>本科</td>
+                                        </tr>
+                                        <tr>
+                                            <td>客服</td>
+                                            <td>办公自动化</td>
+                                            <td>2人</td>
+                                            <td>面议</td>
+                                            <td>3年以上</td>
+                                            <td>本科</td>
+                                        </tr><tr>
+                                            <td>客服</td>
+                                            <td>办公自动化</td>
+                                            <td>2人</td>
+                                            <td>面议</td>
+                                            <td>3年以上</td>
+                                            <td>本科</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div id="jingling" >
+                <img src="img/ren.gif" alt="">
+            </div>
+            <div id="tanchu"  >
+                <div class="t-heder" >
+                    <h2>我带你去另一个地方</h2>
+                    <span id="close" >x</span>
+                </div>
+                <div class="wenzi">
+                    <a href="gongsi.html"><p>需要了解一下公司情况</p></a>
+                    <a href="product.html"><p>需要看闲乎产品</p></a>
+                    <a href="admin.html"><p>需要回到首页</p></a>
+                </div>
+            </div>
+        </div>
+        <div id="footer"></div>
+    </div>
+</body>
+<script src="js/jquery-3.2.1.js"></script>
+<script src="layui/layui.js"></script>
+<script src="js/header.js"></script>
+<script type="text/javascript" src="js/map.js"></script>
+<script>
+    // $("#header").load("header.html");
+    $("#footer").load("footer.html");
+    $(".iteam1").click(()=>{
+        $(".squer1").css("display","block").siblings().css("display","none");
+    })
+    $(".iteam2").click(()=>{
+        $(".squer2").css("display","block").siblings().css("display","none");
+    })
+    $(".iteam3").click(()=>{
+        $(".squer3").css("display","block").siblings().css("display","none");
+    })
+    $("#jingling ").mousemove(()=>{
+        $("#jingling img").attr("src","img/timg.gif")
+    });
+    $("#jingling ").mouseout(()=>{
+        $("#jingling img").attr("src","img/ren.gif")
+    });
+
+    $("#jingling ").click(()=>{
+        $("#tanchu").css("display","block");
+    });
+    $("#close").click(()=>{
+        $("#tanchu").css("display","none");
+
+    })
+</script>
+
+</html>

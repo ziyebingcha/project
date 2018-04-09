@@ -1,0 +1,52 @@
+
+#product{
+    height: 870px;
+    /*border:1px solid #ddd;*/
+    display: flex;
+    justify-content: space-between;
+    flex-wrap:wrap;
+    position: relative;
+}
+#product>.products{
+    width: 460px;
+    height: 400px;
+    border:2px solid #000;
+    position: relative;
+    overflow: hidden;
+}
+#product>.products:hover{
+    box-shadow: 5px 10px 10px #000;
+}
+#product>.products>img{
+    width: 460px;
+    height: 400px;
+    /*z-index: 0;*/
+}
+#product>.products>.xuanfu{
+    /*z-index: 10;*/
+    width: 100%;
+    height: 100%;
+    background: rgba(0,0,0,0.4);
+    position: absolute;
+    top:320px;
+    transition:all 0.5s linear;
+}
+#product>.products>.xuanfu>h1{
+    width: 80%;
+    margin: 0 auto;
+    color:#fff;
+    text-align: center;
+    line-height: 80px;
+    border-bottom: 1px solid #fff;
+}
+#product>.products>.xuanfu:hover{
+    top:0px;
+}
+.jieshao{
+    height: 240px;
+    width: 80%;
+    margin: 0 auto;
+    border-bottom: 1px solid #fff;
+}
+.jieshao>p{color: #fff;font-size: 18px;}
+

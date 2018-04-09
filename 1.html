@@ -1,0 +1,65 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <style>
+        .box{
+            margin:0 auto;
+            position:relative;
+        }
+        #lunbo{
+            width:972px;
+            height:300px;
+            margin:0 auto;
+            overflow: hidden;
+            white-space:nowrap;
+
+        }
+        #lunbo ul{ float:left;}
+        #lunbo ul li{
+            float:left;
+            width:243px;
+            height:300px;
+            list-style: none;
+        }
+    </style>
+</head>
+<body>
+<div class="box">
+    <div id="lunbo" >
+        <div style="width:2400px">
+            <ul id="demo1">
+                <li style="background: red" ><a href="#"><img/></a></li>
+                <li style="background: green" ><a href="#"><img/></a></li>
+                <li style="background: blue" ><a href="#"><img/></a></li>
+                <li style="background: yellow" ><a href="#"><img /></a></li>
+            </ul>
+            <ul id="demo2">
+
+            </ul>
+        </div>
+    </div>
+</div>
+</body>
+<script src="js/jquery-3.2.1.js"></script>
+<script>
+    var speed = 50;
+    $("#demo2").html($("#demo1").html());
+    var a=$("#lunbo").scrollLeft();a=0;
+    function Marquee() {
+        if (a>=$("#demo1").width()){
+            a=0;
+        }else { a++;
+            $("#lunbo").scrollLeft(a);
+        }
+    }
+    var MyMar = setInterval(Marquee, speed);
+    $("#lunbo").mouseover(()=>{
+        clearInterval(MyMar);
+    });
+    $("#lunbo").mouseout(()=>{
+        MyMar = setInterval(Marquee, speed);
+    });
+</script>
+</html>

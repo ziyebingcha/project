@@ -1,0 +1,123 @@
+/*设置通用样式*/
+*{
+    box-sizing:border-box;
+}
+body{
+    font:16px "simhei",Arial,Helvetica,sans-serif  ;
+    margin:0;
+    padding:0;
+}
+p,h1,h2,h3,h4,h5,h6,ol,ul,dl,dd{
+    margin:0;
+    padding:0;
+    list-style:none;
+    color:#000;
+}
+p{
+    margin-top:10px;
+    margin-bottom: 10px;
+    font-size: 15px;
+    line-height: 24px;
+}
+a{
+    color: #333;
+    font-size: 12px;
+    text-decoration: none;
+}
+a:hover {
+    color: #f00;
+}
+img{
+    vertical-align:middle;
+}
+.clear{
+    content:"";
+    display:block;
+    clear:both;
+}
+.lf{float:left;}
+.rt{float:right;}
+.main{
+    width:1200px;
+    margin:0 auto;
+}
+/*内页上边图*/
+.container {
+    width: 960px;
+    margin: 0 auto;
+    /*position: relative;*/
+}
+.container>.cabred{margin-top: 20px; margin-left: 50px;}
+.zhutu{
+    position: relative;
+}
+.zhutu>.tu1{
+    width: 100px;
+    height: 100px;
+    border-radius:50%;
+    box-shadow:0 5px 5px #ddd ;
+    margin-left: 430px;
+    text-align: center;}
+.zhutu>p{color: #2f5af7;text-align: center; }
+.zhutu>.tu2{width: 100%;margin: 20px auto;}
+
+
+/*弹出框*/
+
+#jingling{
+    /*border: 1px solid #000;*/
+    position:absolute;
+    width: 100px;
+    height: 100px;
+    left:125px;
+    top: 300px;
+    text-align: center;
+    z-index: 10000;
+    /*line-height: 150px;*/
+    /*cursor: pointer;*/
+}
+#jingling>img{
+    width: 150px;
+    height: 150px;
+}
+#tanchu{
+    width: 400px;
+    height:350px;
+    background: #fff;
+    box-shadow: 5px 5px 20px 5px #777;
+    position:fixed;
+    top:40%;
+    left:40%;
+    display: none;
+    /*box-sizing: border-box;*/
+}
+#tanchu>.t-heder{    width: 100%;
+    height: 50px;
+    background: linear-gradient(to bottom,#fff,#bbb );
+    line-height: 50px;
+    border: 2px solid #aaa;
+    border-bottom: 2px solid #aaa;}
+#tanchu>.t-heder>h2{float:left; margin-left: 20px;}
+#close{float: right;
+    margin-right: 10px;
+    cursor: pointer;
+    /*border: 1px solid #000;*/
+    height:40px;
+    width: 40px;
+    line-height: 40px;
+    text-align: center;
+    font-size: 40px;
+}
+#tanchu>.wenzi{ position: relative;padding: 20px;height: 300px; width: 100%;border: 2px solid #aaa;}
+#tanchu>.wenzi>a{transition: all 0.5s linear; }
+#tanchu>.wenzi>a>p{font-size: 18px;}
+#tanchu>.wenzi>a:hover p{
+    color: red;
+}
+
+#footer {
+    margin-bottom: 0px;
+    background: #f1f1f1;
+    border-top: 1px solid #ddd;
+
+}

@@ -1,0 +1,63 @@
+
+.f_con {
+    margin-top: 12px;
+    padding-bottom: 12px;
+}
+.f_con ul li {
+    float: left;
+    margin-right: 100px;
+}
+.f_con ul li h3 {
+    font-size: 14px;
+    color: #666;
+    font-weight: lighter;
+    line-height: 28px;
+}
+.f_con ul li a {
+    display: block;
+    color: #999;
+}
+.qrcode img {
+    float: left;
+    width: 200px;
+    height: 100px;
+    background: url("img/logo/logo.gif") 0 0 no-repeat;
+}
+.kefu {
+    float: right;
+    margin-right: 26px;
+    text-align: center;
+}
+.kefu>h4 {
+    font-size: 24px;
+    font-weight: lighter;
+    line-height: 36px;
+}
+.kefu>a {
+    display: block;
+    margin: 8px auto 0;
+    width: 120px;
+    height: 26px;
+    background: #003279;
+    color: #fff;
+    font-size: 14px;
+    line-height: 26px;
+}
+.kefu>span {
+    color: #999;
+}
+.clearfloat:after {
+    content: " ";
+    display: table;
+    height: 0;
+    clear: both;
+    visibility: hidden;
+}
+.copyright {
+    border-top: 1px solid #ddd;
+    line-height: 65px;
+    text-align: center;
+    color: #999;
+    font-family: "Microsoft YaHei";
+    font-size: 12px;
+}
