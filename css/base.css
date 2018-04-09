@@ -69,8 +69,8 @@ img{
     position:absolute;
     width: 100px;
     height: 100px;
-    left:125px;
-    top: 300px;
+    right: 200px;
+    bottom: 100px;
     text-align: center;
     z-index: 10000;
     /*line-height: 150px;*/

@@ -61,26 +61,26 @@
                 <!--<a class="ch" href="">下一页</a>-->
              </div>
         </div>
-
+        <!--精灵-->
+        <div id="jingling" >
+            <img src="img/ren.gif" alt="">
+        </div>
+        <div id="tanchu"  >
+            <div class="t-heder" >
+                <h2>我带你去另一个地方</h2>
+                <span id="close" >x</span>
+            </div>
+            <div class="wenzi">
+                <a href="gongsi.html"><p>需要了解一下公司情况</p></a>
+                <a href="callus.html"><p>需要联系闲乎</p></a>
+                <a href="admin.html"><p>需要回到首页</p></a>
+            </div>
+        </div>
+        <!--精灵-->
     </div>
     <div id="footer"></div>
 </div>
-    <!--精灵-->
-    <div id="jingling" >
-        <img src="img/ren.gif" alt="">
-    </div>
-    <div id="tanchu"  >
-        <div class="t-heder" >
-            <h2>我带你去另一个地方</h2>
-            <span id="close" >x</span>
-        </div>
-        <div class="wenzi">
-            <a href="gongsi.html"><p>需要了解一下公司情况</p></a>
-            <a href="callus.html"><p>需要联系闲乎</p></a>
-            <a href="admin.html"><p>需要回到首页</p></a>
-        </div>
-    </div>
-    <!--精灵-->
+
 
 </body>
 <script src="js/jquery-3.2.1.js"></script>
@@ -90,12 +90,12 @@
 <script src="js/product_manhua.js"></script>
 <script>
     $("#footer").load("footer.html");
-    // $("#jingling").mousemove(()=>{
-    //     $("#jingling img").attr("src","img/timg.gif")
-    // });
-    // $("#jingling").mouseout(()=>{
-    //     $("#jingling img").attr("src","img/ren.gif")
-    // });
+    $("#jingling").mousemove(()=>{
+        $("#jingling img").attr("src","img/timg.gif")
+    });
+    $("#jingling").mouseout(()=>{
+        $("#jingling img").attr("src","img/ren.gif")
+    });
 
     $("#jingling").dblclick(()=>{
         $("#tanchu").css("display","block");
