@@ -4,195 +4,11 @@
     <bookmark url="file://$PROJECT_DIR$/jignling.html" line="26" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a885cba1-0c88-431a-b88b-1565aa98580c" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.gitattributes" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/deployment.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/project.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vagrant.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/webServers.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/1.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/callus.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/admin.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/base.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/callus.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/footer.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/index.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/product_manhua.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/produt.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/henan.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/init.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/product_manhau.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/xianhu.sql" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/footer.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gongsi.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/header.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/banner/1gif.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/banner/banner.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/banner/figbtn.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/banner/figbtnhs.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/banner/right.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/banner/right2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/banner/xia.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/banner/xia2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/case1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/case2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/case3.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/case4.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/gongsi/dingwei.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/gongsi/dingweilogo.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/gongsi/ditu.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/gongsi/gaoshan.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/gongsi/gongsi.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/gongsi/us_bg.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/gongsi/us_bg2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/gongsi/xainhudengni.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/gongsi/xian.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/logo/logo.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/logo/logo.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/logo/logo1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/logo/logo2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/logo/logopng.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/product/p1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/product/p2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/product/p3.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/product/p4.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/product/product-hua/2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/product/product-hua/3.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/product/product-hua/4.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/product/product-hua/5.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/product/product-hua/6.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/product/product-hua/7.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/ren.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/timg.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jignling.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/js/admin.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/js/echarts.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/js/header.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/js/index.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/js/jquery-3.2.1.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/js/map.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/js/move.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/js/product_manhua.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/layui/css/layui.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/layui/css/layui.mobile.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/layui/css/modules/code.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/layui/css/modules/laydate/default/laydate.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/layui/css/modules/layer/default/icon-ext.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/layui/css/modules/layer/default/icon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/layui/css/modules/layer/default/layer.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/layui/css/modules/layer/default/loading-0.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/layui/css/modules/layer/default/loading-1.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/layui/css/modules/layer/default/loading-2.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/layui/font/iconfont.eot" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/layui/font/iconfont.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/layui/font/iconfont.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/layui/font/iconfont.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/0.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/1.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/10.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/11.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/12.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/13.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/14.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/15.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/16.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/17.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/18.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/19.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/2.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/20.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/21.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/22.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/23.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/24.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/25.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/26.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/27.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/28.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/29.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/3.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/30.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/31.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/32.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/33.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/34.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/35.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/36.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/37.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/38.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/39.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/4.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/40.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/41.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/42.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/43.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/44.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/45.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/46.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/47.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/48.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/49.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/5.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/50.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/51.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/52.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/53.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/54.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/55.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/56.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/57.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/58.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/59.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/6.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/60.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/61.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/62.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/63.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/64.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/65.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/66.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/67.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/68.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/69.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/7.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/70.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/71.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/8.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/layui/images/face/9.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/layui/lay/modules/carousel.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/layui/lay/modules/code.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/layui/lay/modules/element.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/layui/lay/modules/flow.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/layui/lay/modules/form.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/layui/lay/modules/jquery.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/layui/lay/modules/laydate.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/layui/lay/modules/layedit.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/layui/lay/modules/layer.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/layui/lay/modules/laypage.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/layui/lay/modules/laytpl.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/layui/lay/modules/mobile.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/layui/lay/modules/table.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/layui/lay/modules/tree.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/layui/lay/modules/upload.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/layui/lay/modules/util.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/layui/layui.all.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/layui/layui.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/map.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/product.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/product_hua.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/product_manhua.html" />
+    <list default="true" id="a885cba1-0c88-431a-b88b-1565aa98580c" name="Default" comment="xianhu">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/project.zip" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/window监听加载.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/xianhu/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/xianhu/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/xianhu/.idea/xianhu.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/横向轮播.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xianhu/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -209,7 +25,7 @@
       <file leaf-file-name="product.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/product.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="507">
+            <state relative-caret-position="0">
               <caret line="13" column="5" lean-forward="false" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
               <folding>
                 <element signature="n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -263,8 +79,8 @@
       <file leaf-file-name="jignling.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/jignling.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="349">
-              <caret line="18" column="7" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+            <state relative-caret-position="351">
+              <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -307,16 +123,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="975">
               <caret line="25" column="40" lean-forward="false" selection-start-line="25" selection-start-column="40" selection-end-line="25" selection-end-column="40" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="product_manhua.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/product_manhua.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1170">
-              <caret line="30" column="64" lean-forward="false" selection-start-line="30" selection-start-column="64" selection-end-line="30" selection-end-column="64" />
               <folding />
             </state>
           </provider>
@@ -437,28 +243,13 @@
             <path>
               <item name="project" type="b2602c69:ProjectViewProjectNode" />
               <item name="project" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="ceshi" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="project" type="b2602c69:ProjectViewProjectNode" />
               <item name="project" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="project" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="project" type="462c0819:PsiDirectoryNode" />
-              <item name="layui" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="project" type="462c0819:PsiDirectoryNode" />
-              <item name="layui" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="ceshi" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -475,6 +266,7 @@
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="ChangesBrowser.SHOW_FLATTEN" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -528,18 +320,25 @@
       <workItem from="1522371763812" duration="13914000" />
       <workItem from="1522396665010" duration="2930000" />
       <workItem from="1523156603152" duration="17502000" />
-      <workItem from="1523235866067" duration="1465000" />
+      <workItem from="1523235866067" duration="2453000" />
     </task>
+    <task id="LOCAL-00001" summary="test">
+      <created>1523237664989</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1523237664989</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="223789000" />
+    <option name="totallyTimeSpent" value="224777000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="300" y="58" width="1378" height="980" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18731344" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18731344" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -583,6 +382,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
@@ -597,7 +400,6 @@
     <select />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/css/header.css" />
     <entry file="file://$PROJECT_DIR$/footer.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -840,7 +642,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/product.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="507">
+        <state relative-caret-position="0">
           <caret line="13" column="5" lean-forward="false" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
           <folding>
             <element signature="n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -928,10 +730,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/xianhu/.idea/xianhu.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/jignling.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="349">
-          <caret line="18" column="7" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+        <state relative-caret-position="351">
+          <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
           <folding />
         </state>
       </provider>
