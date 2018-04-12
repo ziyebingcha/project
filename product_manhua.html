@@ -7,9 +7,6 @@
     <link rel="stylesheet" href="css/base.css">
     <link rel="stylesheet" href="css/product_manhua.css">
     <link rel="stylesheet" href="css/footer.css">
-    <style>
-
-    </style>
 </head>
 <body>
 <div>
@@ -88,20 +85,9 @@
 <script src="js/header.js"></script>
 <script src="js/move.js"></script>
 <script src="js/product_manhua.js"></script>
+<script src="js/jingling.js"></script>
 <script>
     $("#footer").load("footer.html");
-    $("#jingling").mousemove(()=>{
-        $("#jingling img").attr("src","img/timg.gif")
-    });
-    $("#jingling").mouseout(()=>{
-        $("#jingling img").attr("src","img/ren.gif")
-    });
 
-    $("#jingling").dblclick(()=>{
-        $("#tanchu").css("display","block");
-    });
-    $("#close").click(()=>{
-        $("#tanchu").css("display","none");
-    })
     </script>
 </html>

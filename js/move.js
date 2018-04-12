@@ -16,6 +16,5 @@ $(document).ready(function(){
 
     $(document).mouseup(function(){
         $(document).unbind("mousemove");
-        // $("#jingling img").attr("src","img/ren.gif")
     });
 });

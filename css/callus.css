@@ -4,11 +4,11 @@ body{ font-size:12px;}
 .main1_l{ width:150px; height:500px; border:1px solid #c9c9c9; background:#FFF; float:left}
 .main1_l h1{ width:148px; height:89px; background:#074c8d; text-align:center}
 .main1_l h1 p{ color:#bedfff; text-decoration:underline; padding-top:20px; letter-spacing:2px; font-size: 24px;margin-top: 0; }
-.main1_l h1 span{ color:#FFF;  font-family:"微软雅黑"; font-weight:normal; font-size:18px}
+.main1_l h1 span{ color:#FFF;  font-family:"微软雅黑"; font-weight:normal; font-size:18px;overflow: hidden;}
 .main1_l ul li{ height: 50px;; background:url("../img/gongsi/us_bg2.jpg");     padding: 15px 0px 0px 15px;}
 .main1_l ul li a{ display:block; background:url("../img/gongsi/us_bg.jpg") no-repeat}
 .main1_l ul li a span{ margin-left:17px; font-size:14px; color:#555555}
-.main1_r{ width:800px; height:500px; border:1px solid #c9c9c9; border-top:4px solid #074c8d; float:right; background:#FFF}
+.main1_r{ width:800px; height:500px; border:1px solid #c9c9c9; border-top:4px solid #074c8d; float:right; background:#FFF;position: relative;}
 .us_top{width: 779px;
     height: 20px;
     border-bottom: 1px solid #dfdfdf;
