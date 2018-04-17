@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="css/base.css">
+    <!--<link rel="stylesheet" href="layui/css/layui.css">-->
+    <link rel="stylesheet" href="css/register.css" />
+   
+</head>
+<body>
+<div class="container">
+    <div style="margin-top: 30px ">
+        <a href="admin.html">
+            <img style="height: 100px" src="img/logo/logo2.png" alt="">
+        </a>
+    </div>
+    <div style="background:url('img/banner/banner.jpg') no-repeat;background-size: 560px 500px; height: 600px">
+     <div  style=" float: right;">
+         <div style="height: 35px;">
+             <span style="font-size: 16px;float: left">欢迎注册</span>
+             <span style="font-size: 14px;float: right">已注册可
+                 <a style="color:blue;font-size: 14px" href="login.html">直接登录</a>
+             </span>
+         </div>
+         <div class="clear">
+             <div class="group" >
+                 <input class="input-ui" type="text"  id="uname" placeholder="请输入您的昵称">
+                 <span><img class="ok" src="img/logo/ok.png" alt=""></span>
+                 <span><img class="err" src="img/logo/err.png" alt=""></span>
+                 <div class="input-span">
+                     <span></span>
+                 </div>
+             </div>
+             <div class="group" >
+                 <input class="input-ui" type="password" id="upwd" placeholder="请输入密码">
+                 <span><img class="ok" src="img/logo/ok.png" alt=""></span>
+                 <span><img class="err" src="img/logo/err.png" alt=""></span>
+                 <div class="input-span">
+                     <span></span>
+                 </div>
+             </div>
+             <div class="group" >
+                 <input class="input-ui" type="password" id="cpwd" placeholder="确认名密码">
+                 <span><img class="ok" src="img/logo/ok.png" alt=""></span>
+                 <span><img class="err" src="img/logo/err.png" alt=""></span>
+                 <div class="input-span">
+                     <span></span>
+                 </div>
+             </div>
+             <div class="group" >
+                 <input class="input-ui" type="text" id="email"  placeholder="请输入邮箱">
+                 <span><img class="ok" src="img/logo/ok.png" alt=""></span>
+                 <span><img class="err" src="img/logo/err.png" alt=""></span>
+                 <div class="input-span">
+                     <span></span>
+                 </div>
+             </div>
+             <div class="group" >
+                 <input class="input-ui" type="text" id="phone" placeholder="请输入手机号码">
+                 <span><img class="ok" src="img/logo/ok.png" alt=""></span>
+                 <span><img class="err" src="img/logo/err.png" alt=""></span>
+                 <div class="input-span">
+                     <span></span>
+                 </div>
+             </div>
+             <div class="group" >
+                 <input class="input-ui" type="text" id="yzm" placeholder="请输入验证码" >
+                 <span><img src="data/03_code_gg.php" id="setyzm" title="看不清换下一张" ></span>
+                 <div class="input-span">
+                     <span></span>
+                 </div>
+                 
+             </div>
+             <div>
+                 <img id="tiaoyue" src="img/no.png" style="width: 25px;/>
+                 <span style="font-size:14px; display:inline-block;">我已阅读并接受
+                 <a  style="font-size: 14px;color: #2f5af7" href="">《闲乎娱乐会员条款》</a></span>
+             </div>
+             <div style="color: red;margin-left: 15px;">接受条款才能注册</div>
+             <button  type="submit"  id="btn" >提交信息    </button>
+         </div>
+
+     </div>
+    </div>
+
+    <div style="text-align: center;margin-top: 50px;">
+        Copyright © 2014 Apple Inc 保留所有权利。
+        使用条款|客户隐私政策
+        © 闲乎（北京）娱乐文化有限公司
+        京公安网安备 | 京ICP备
+    </div>
+</div>
+</body>
+<script src="js/jquery-3.2.1.js"></script>
+<script src="js/register.js"></script>
+</html>

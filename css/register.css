@@ -1,0 +1,51 @@
+    .group{position: relative;margin:5px 0  ;}
+        .group>span{position: absolute;right:5px;top:6px}
+        .group>span>img{visibility: hidden}
+        .input-ui{
+            height: 34px;
+            padding: 6px 10px;
+            width:300px;
+            color: #333;
+            background-color: #fff;
+            border: 1px solid #b2b2b2;
+            border-radius: 3px;
+            outline: 0;
+           }
+        .input-ui:hover{ border: 1px solid #000;}
+        .input-span{
+            font-size: 13px;
+            color: #666;
+            position: relative;
+            min-height: 19px;
+            max-height: 36px;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            display: -webkit-box;
+            -webkit-line-clamp: 2;
+            -webkit-box-orient: vertical;
+            margin-top: 2px;
+            margin-bottom: 5px;
+            line-height: 1.5;
+            display: block;
+            margin-left: 2px;
+        }
+        .input-span span{color: red}
+        .sess{color: green;}
+#yzm{width:160px;}
+#setyzm{
+	width:120px;
+	margin-top: -5px;
+	visibility: visible;
+	cursor: pointer; 
+	}
+#btn{
+	width: 300px;
+	height: 40px;
+	text-align: center;
+	line-height: 40px;
+	margin-top: 20px;  
+	border: 0px;
+	font-size: 17px;
+	color: #fff; 
+	background: chocolate;
+}

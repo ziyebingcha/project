@@ -12,11 +12,11 @@ function laodpage(pno) {
                         <div class="wenda" >
                             <h2>${p.bid} ${p.title}</h2>
                             <div>
-                                <p class="teacher" >老师回答 / 七月</p>
-                                <p>${p.answer}
+                                <p class="teacher" >闲乎回答 / 七月</p>
+                                <p>${p.answer==null?'工作人员3个工作日内给出答复，请耐心等待……':p.answer}
                                 </p>
                             </div>
-                            <p>网友：${p.nickname} <span>2018-04-10</span></p>
+                            <p>网友：${p.nickname} <span>${p.wtime}</span></p>
                         </div> 
                `
             }
@@ -47,3 +47,32 @@ $("#lis").on("click","a",function(e){
     var pno=$(this).html();
     laodpage($(this).attr('href'));
 });
+
+
+$("#btn").click(()=>{
+    var title=$("#question").val(), nickname=$("#uame").val();
+    var nameReg=/^[A-Za-z0-9_\-\u4e00-\u9fa5]{4,8}$/;
+    var titleReg=/^[A-Za-z0-9_\-\u4e00-\u9fa5]{8,30}$/;
+    if( $.trim(nickname) ==""||$.trim(nickname)==null){  alert("请输入昵称");
+    }else if(!nameReg.test(nickname)){alert("请输入4-8位字汉字、字母、数字的组合");
+    }else if($.trim(title)==""||$.trim(title)==null ){ alert("请输入问题");
+    }else if(!titleReg.test(title) ) { alert("问题请输入8-30个字符");
+    }else if(nameReg.test(nickname)&&titleReg.test(title)){
+            $.ajax({
+            type:'post',
+            url:'data/insertbbs.php',
+            data:{nickname:nickname,title:title},
+            success:function (data){
+                alert(data.msg);
+                $("#question").val("");
+                $("#uame").val("");
+                laodpage(pno);
+            },error:function () {
+                alert("网络故障");
+            }
+        })
+
+
+
+    }
+})

@@ -13,7 +13,7 @@ if(!$pageSize){
     $pageSize=intval($_REQUEST["pageSize"]);
 }
 $of=($pno-1)*$pageSize;
-$sql=" select bid,title,nickname,answer from xh_bbs limit $of,$pageSize ";
+$sql=" select bid,title,nickname,answer,wtime from xh_bbs order by wtime desc limit $of,$pageSize";
 $result=mysqli_query($conn,$sql);
 $arr=mysqli_fetch_all($result,MYSQLI_ASSOC);
 if(mysqli_error($conn)){
