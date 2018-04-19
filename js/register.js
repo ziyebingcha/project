@@ -108,11 +108,29 @@
 	    if(!eReg.test(email)){
 	       $("#email").siblings().find(".err").css("visibility","visible");
 	       $("#email").parents().children(":last-child").children("span").html("电子邮箱格式不正确").css("color","red");
-	       console.log(1111);
+	       // console.log(1111);
 	    }else{
-	        $("#email").siblings().find(".err").css("visibility","hidden");   
-	        $("#email").siblings().find(".ok").css("visibility","visible"); 
-	         $("#email").parents().children(":last-child").children("span").html("通过").css("color","green");
+            $.ajax({
+                type:"get",
+                url:'data/checkemail.php',
+                data:{email:email},
+                success:function (data){
+                    console.log(data);
+                    if(data.code==1){
+                        // console.log(1);
+                        $("#email").siblings().find(".err").css("visibility","visible");
+                        $("#email").parents().children(":last-child").children("span").html(data.msg).css("color","red");
+                    }else{
+                        $("#email").siblings().find(".err").css("visibility","hidden");
+                        $("#email").siblings().find(".ok").css("visibility","visible");
+                        $("#email").parents().children(":last-child").children("span").html("通过").css("color","green");
+                    }
+                },
+                error:function(){
+                    alert("网络故障");
+                }
+            })
+
 	    }
 	});
 	$("#phone").keyup(()=>{
@@ -123,9 +141,27 @@
 	       $("#phone").parents().children(":last-child").children("span").html("手机号码格式不正确").css("color","red");
 	      
 	    }else{
-	        $("#phone").siblings().find(".err").css("visibility","hidden");   
-	        $("#phone").siblings().find(".ok").css("visibility","visible"); 
-	        $("#phone").parents().children(":last-child").children("span").html("通过").css("color","green");
+	    	$.ajax({
+				type:"get",
+				url:'data/checkphone.php',
+            	data:{phone:phone},
+				success:function (data){
+					console.log(data);
+					if(data.code==1){
+						// console.log(1);
+						$("#phone").siblings().find(".err").css("visibility","visible");
+						$("#phone").parents().children(":last-child").children("span").html(data.msg).css("color","red");
+					}else{
+                        $("#phone").siblings().find(".err").css("visibility","hidden");
+                        $("#phone").siblings().find(".ok").css("visibility","visible");
+                        $("#phone").parents().children(":last-child").children("span").html("通过").css("color","green");
+					}
+				},
+				error:function(){
+					alert("网络故障");
+				}
+			})
+
 	    }
 	});
 	$("#tiaoyue").click(()=>{

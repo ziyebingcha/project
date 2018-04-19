@@ -4,6 +4,8 @@
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="C:\xampp\htdocs\project\1111" vcs="Git" />
     <mapping directory="C:\xampp\htdocs\project\ceshi" vcs="Git" />
+    <mapping directory="C:\xampp\htdocs\project\pro" vcs="Git" />
     <mapping directory="C:\xampp\htdocs\project\xianhu" vcs="Git" />
+    <mapping directory="C:\xampp\htdocs\project\闲乎" vcs="Git" />
   </component>
 </project>

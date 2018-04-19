@@ -26,8 +26,8 @@
             <div class="clear">
                 <div class="group" >
                     <input class="input-ui" type="text"  id="uname" placeholder="昵称 / 邮箱 / 手机号">
-                    <span><img class="ok" src="img/logo/ok.png" alt=""></span>
-                    <span><img class="err" src="img/logo/err.png" alt=""></span>
+                    <!--<span><img class="ok" src="img/logo/ok.png" alt=""></span>-->
+                    <!--<span><img class="err" src="img/logo/err.png" alt=""></span>-->
                     <div class="input-span">
                         <span></span>
                     </div>
@@ -54,4 +54,26 @@
 </div>
 </body>
 <script src="js/jquery-3.2.1.js"></script>
+<script>
+    $("#btn").click(()=>{
+        var uname=$("#uname").val();
+        var upwd=$("#upwd").val();
+        console.log(uname,upwd);
+        $.ajax({
+            type:"post",
+            url:"data/login.php",
+            data:{uname:uname,upwd:upwd},
+            success:function (data) {
+                console.log(data.msg);
+                if(data.code==-1){
+                    $("#upwd").parents().children(":last-child").children("span").html(data.msg).css("color","red")
+                }else if(data.code==1){
+                    location.replace("admin.html");
+                }
+            },error:function () {
+                alert("网络故障");
+            }
+        })
+    })
+</script>
 </html>

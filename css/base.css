@@ -42,6 +42,15 @@ img{
     width:1200px;
     margin:0 auto;
 }
+#header_top{width: 100%;border-bottom: 1px dashed #ddd;background: #f3f1f1; height:30px;line-height: 30px;}
+#header_top>div{padding: 0 40px;}
+#header_top .span_block{margin-right: 0; display: inline-block;}
+#header_top .span_block>a{display: inline-block;width: 70px;text-align: center;}
+#header_top .span_block>a.kuan{width: 100px; }
+#header_bottom>a{display:inline-block; width: 160px;clear: both; line-height: 80px;margin-left: 40px;}
+#header_bottom>a>img{height:70px;line-height: 80px;}
+#header_bottom>ul{width: 560px; float: right}
+
 /*内页上边图*/
 .container {
     width: 960px;
